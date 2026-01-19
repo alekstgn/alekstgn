@@ -1,7 +1,4 @@
-## Привет. Я Алексей -  👋
-
-<!--
-**alekstgn/alekstgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Привет. Я Алексей - Промт-инженер и вайбкодер 👋
 
 собираю **AI-ботов**, автоматизацию и аккуратный backend для digital-бизнеса.  
 Фокус — Telegram, OpenAI, интеграции с CRM и платежами.
